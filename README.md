@@ -1,2 +1,2 @@
-# Deneme1
-DenemeTaslk
+# Python Örnekler
+Temel Python denemelerim yer almaktadır.
